@@ -1,0 +1,9 @@
+C:/Users/Pc/Desktop/Roll Game/roll-game/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/roll-game.dir
+C:/Users/Pc/Desktop/Roll Game/roll-game/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Pc/Desktop/Roll Game/roll-game/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Pc/Desktop/Roll Game/roll-game/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Pc/Desktop/Roll Game/roll-game/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Pc/Desktop/Roll Game/roll-game/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Pc/Desktop/Roll Game/roll-game/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Pc/Desktop/Roll Game/roll-game/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/roll-game_autogen_timestamp_deps.dir
+C:/Users/Pc/Desktop/Roll Game/roll-game/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/roll-game_autogen.dir
